@@ -14,7 +14,7 @@ The global and local speaking styles in each language are extracted and utilized
 A multi-scale speaking style enhanced FastSpeech 2 is then utilized to synthesize the predicted the global and local speaking styles to speech for each language. Experiment results demonstrate the effectiveness of our proposed framework, which outperforms a baseline with only duration transfer in both objective and subjective evaluations.
 
 <center>
-    <img src="./imgs/model.png" width="20%" height="20%">
+    <img src="./imgs/model.png" width="100%" height="40%">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
