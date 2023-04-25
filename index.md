@@ -22,7 +22,7 @@ A multi-scale speaking style enhanced FastSpeech 2 is then utilized to synthesiz
     color: #999;
     padding: 2px;"> Fig.1: The the proposed joint multi-scale cross-lingual speaking style transfer model. </div>
 </center>
-<!--  --> -->
+
 
 
 # Subjective Evaluation
